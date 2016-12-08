@@ -1,0 +1,12 @@
+ZCHLABB46681-02:
+  ip: 10.193.102.38
+  pwd: "c:/mfact/mFact_test"
+  note: "Linux with rtos 2.0"
+  board:
+    all: "test.bat pk/sdk_2_0/stage/linux/all/ all"
+    armgcc: "test.bat pk/sdk_2_0/stage/linux/armgcc/ armgcc"
+    kds: "test.bat pk/sdk_2_0/stage/linux/kds/ kds"
+  chip:
+    all: "test.bat pk/sdk_2_0/stage/linux_chip/all/ all"
+    armgcc: "test.bat pk/sdk_2_0/stage/linux_chip/armgcc/ armgcc"
+    kds: "test.bat pk/sdk_2_0/stage/linux_chip/kds/ kds"
